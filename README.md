@@ -1,3 +1,4 @@
-# Sample corona_apps
+# corona_apps
 
-![github-large](https://github.com/anwar907/coronavirus-tracker-apps/tree/master/assets/app.png)
+## Sample Image
+ ![github-large](https://github.com/anwar907/coronavirus-tracker-apps/tree/master/assets/app.png)
